@@ -1,0 +1,44 @@
+
+.navbar {
+    background-color: #000000;
+    color: #ffffff;
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-brand {
+    text-align: left;
+    padding;25px 0px;
+    color: #ffffff;
+    background-color: red;
+    padding: 10px;
+    border: 10px;
+    font-size: 30px;
+
+}
+.navbar-nav a{
+  color: #ffffff;
+  background-color: black;
+  font-size: 10px;
+    width: 60%;
+    border: 3px solid black;
+    padding: 10px;
+}
+img{
+  background-color: red;
+  margin: 0;
+  "type="submit"
+}
+.topright ul {
+color: white;
+position: absolute;
+      top: 8px;
+      right: 16px;
+      padding:0;
+      text-align: center;
+      list-style: none;
+      background-color: #000000;
+      font-size: 10px;
+}
+a{
+color: white;
+}
